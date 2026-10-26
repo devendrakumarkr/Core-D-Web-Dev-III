@@ -89,4 +89,4 @@ use("GoogleDB")
 
 // db.employee.createIndex({contact:1})
 
-db.employee.getIndexes()
+// db.employee.getIndexes()
