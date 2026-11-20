@@ -1,0 +1,27 @@
+{
+  "name": "core-d",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devendrakumarkr/Core-D-Web-Dev-III.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devendrakumarkr/Core-D-Web-Dev-III/issues"
+  },
+  "homepage": "https://github.com/devendrakumarkr/Core-D-Web-Dev-III#readme",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "expresss": "^0.0.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.12.1",
+    "nodemon": "^3.1.14"
+  }
+}
